@@ -20,4 +20,5 @@ make build   # → bin/h3ctl
 
 ## License
 
-[AGPL-3.0-or-later](LICENSE)
+Code: [AGPL-3.0-or-later](LICENSE)
+Documentation: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
